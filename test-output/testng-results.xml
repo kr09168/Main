@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87" started-at="2022-08-27T14:43:53 IST" finished-at="2022-08-27T14:43:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87" started-at="2022-08-27T14:43:53 IST" finished-at="2022-08-27T14:43:53 IST">
+      <class name="FrameworkTestNg.Dataproviders">
+        <test-method status="PASS" signature="dp(int,java.lang.String)[pri:0, instance:FrameworkTestNg.Dataproviders@2d8f65a4]" name="dp" duration-ms="9" started-at="2022-08-27T14:43:53 IST" data-provider="DataForTest" finished-at="2022-08-27T14:43:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kartik]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dp -->
+        <test-method status="PASS" signature="dp(int,java.lang.String)[pri:0, instance:FrameworkTestNg.Dataproviders@2d8f65a4]" name="dp" duration-ms="3" started-at="2022-08-27T14:43:53 IST" data-provider="DataForTest" finished-at="2022-08-27T14:43:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[raut]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dp -->
+        <test-method status="PASS" signature="dp(int,java.lang.String)[pri:0, instance:FrameworkTestNg.Dataproviders@2d8f65a4]" name="dp" duration-ms="1" started-at="2022-08-27T14:43:53 IST" data-provider="DataForTest" finished-at="2022-08-27T14:43:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kartikey]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dp -->
+      </class> <!-- FrameworkTestNg.Dataproviders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
